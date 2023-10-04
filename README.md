@@ -1,7 +1,12 @@
-### Welcome to Minnowfish's GitHub profile!
-My name is Ashlyn (online username is Minnow) and I am a sixth form student in Malaysia. This is a place where I will keep projects, programming classwork and challenges/problems I have been doing.
+<h1>Welcome to my GitHub profile!</h1> 
+<p>My name is Ashlyn (online username is Minnow) and I am a sixth form student in Malaysia. This is a place where I will keep projects, programming classwork and challenges/problems I have been doing.</p>
+
+<h2>What I am learning:</h2>
+<span><img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></span>
 
  🟥 **NOTE: This is still a work in progress** 🟥
+
+ 
 
 <!--
 **minnowfish/minnowfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
