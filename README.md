@@ -1,7 +1,7 @@
 ### Welcome to Minnowfish's GitHub profile!
 My name is Ashlyn (online username is Minnow) and I am a sixth form student in Malaysia. This is a place where I will keep projects, programming classwork and challenges/problems I have been doing.
 
-## Note: This is currently unfinished
+# Note: This is currently unfinished
 
 <!--
 **minnowfish/minnowfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
