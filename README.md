@@ -7,9 +7,11 @@
 <h2>Projects I am working on:</h2>
 <h3>
 <li>
-<a href = "https://github.com/minnowfish/Pomodoro-Timer"> Pomodoro Timer </a>
- 
-</li>
+<a href = "https://github.com/minnowfish/Pomodoro-Timer"> 
+ Pomodoro Timer 
+ <br> A pomodoro timer project that is currently ongoing for me to refresh my html and css knowledge. I am also using this project to begin learning javascript. My current plans is to add the basic features of a pomodoro timer before researching into APIs that I could add.
+</a>
+ </li>
 </h3>
 
 
