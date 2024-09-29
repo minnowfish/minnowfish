@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashlyn</h1>
+<h1 align="center">Hi! I'm Ashlyn</h1>
 <h3 align="center">A sixth form student in Malaysia</h3>
 
 - 🐟 Like a tiny fish, small but capable
