@@ -1,12 +1,6 @@
 <h1 align="center">Hi! I'm Ashlyn</h1>
 <h3 align="center">A sixth form student in Malaysia</h3>
 
-- 🐟 Like a tiny fish, small but capable
-
-- 🔭 I’m currently working on [FishBot](https://github.com/minnowfish/FishBot)
-
-- 🌱 I’m currently learning **Rust**
-
 - 📫 How to reach me **ashlynchor15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
