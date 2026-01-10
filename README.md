@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Ashlyn</h1>
-<h3 align="center">A sixth form student in Malaysia</h3>
+<h3 align="center">A First Year Beng Computing Undergraduate</h3>
 
 - 📫 How to reach me **ashlynchor15@gmail.com**
 
